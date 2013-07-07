@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+<name>Captcha Library</name>
+<author>Samir Goswami</author>
+<title>Captcha Library XML</title>
+<authorEmail>samir.150@gmail.com</authorEmail>
+<authorUrl>http://www.samirgoswami.com</authorUrl>
+<version>1.0.0</version>
+<description>This Captcha Library</description>
+<files>
+	<filename>readme.txt</filename>
+	<foldername>application</foldername>
+	<foldername>assets</foldername>
+</files>
+</package>
